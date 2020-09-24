@@ -1,0 +1,7 @@
+powershell.code-workspace
+Microsoft.PowerShell_profile.ps1
+Sandbox.ps1
+Configuration.json
+Secret.json
+*.psd1
+*.psm1-Help.xml

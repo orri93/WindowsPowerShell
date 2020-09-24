@@ -1,0 +1,9 @@
+{
+  "configuration": {
+    "development": {
+      "debuggers": {
+        "path": "F:\\debuggers"
+      }
+    }
+  }
+}
